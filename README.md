@@ -1,6 +1,6 @@
 # flyExclusive-Data-Challenge
 
-This repository includes a jupyter notebook containing the analysis for this data challenge.
+This repository includes three .csv files and a jupyter notebook containing the analysis for this data challenge.
 
 ## Scenario: 
 
